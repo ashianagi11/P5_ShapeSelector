@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/P5_ShapeSelector/static/css/main.468ae21a.chunk.css",
+    "main.js": "/P5_ShapeSelector/static/js/main.7139220a.chunk.js",
+    "main.js.map": "/P5_ShapeSelector/static/js/main.7139220a.chunk.js.map",
+    "runtime~main.js": "/P5_ShapeSelector/static/js/runtime~main.bd4bf8da.js",
+    "runtime~main.js.map": "/P5_ShapeSelector/static/js/runtime~main.bd4bf8da.js.map",
+    "static/js/2.e703e8cc.chunk.js": "/P5_ShapeSelector/static/js/2.e703e8cc.chunk.js",
+    "static/js/2.e703e8cc.chunk.js.map": "/P5_ShapeSelector/static/js/2.e703e8cc.chunk.js.map",
+    "index.html": "/P5_ShapeSelector/index.html",
+    "precache-manifest.06db0c2004be7f4716ed8b8f2872ddbf.js": "/P5_ShapeSelector/precache-manifest.06db0c2004be7f4716ed8b8f2872ddbf.js",
+    "service-worker.js": "/P5_ShapeSelector/service-worker.js",
+    "static/css/main.468ae21a.chunk.css.map": "/P5_ShapeSelector/static/css/main.468ae21a.chunk.css.map"
+  }
+}
